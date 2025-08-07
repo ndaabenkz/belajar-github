@@ -1,3 +1,4 @@
 My Resolusi
  - To be backend programmer
- - Membuat API 
+ - membuat yg lain
+ - tambah baru ini
